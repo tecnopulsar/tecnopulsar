@@ -1,4 +1,4 @@
-##### ¡Hola! Soy **Juan Manuel Burdet, Ingeniero Electrónico argentino** con residencia en Buenos Aires. Me gradué en la Universidad de Buenos Aires (UBA), y actualmente estoy enfocado en expandir mis habilidades en el campo del desarrollo web.
+### ¡Hola! Soy **Juan Manuel Burdet, Ingeniero Electrónico argentino** con residencia en Buenos Aires. Me gradué en la Universidad de Buenos Aires (UBA), y actualmente estoy enfocado en expandir mis habilidades en el campo del desarrollo web.
  
  Me apasiona el desarrollo web y estoy comprometido con mi crecimiento profesional. Mi experiencia incluye el dominio de los lenguajes **HTML, CSS, JavaScript**, así como el uso de tecnologías modernas como **React, Node.js y Next.js**. Además, gestiono y comparto mis proyectos en **GitHub**, donde puedo mostrar mi dedicación al código limpio y eficiente.
     
